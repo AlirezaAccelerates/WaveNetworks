@@ -90,10 +90,10 @@ Contributions to this repository are welcome and greatly appreciated! Whether yo
 
 2. **Clone Your Fork**:  
    - Clone the forked repository to your local machine:  
-     ```bash
-    git clone https://github.com/AlirezaAccelerates/WaveNetworks
-    cd WaveNetworks
-     ```
+        ```bash  
+        git clone https://github.com/AlirezaAccelerates/WaveNetworks
+        cd WaveNetworks
+        ```
 
 3. **Create a Branch**:  
    - Create a new branch for your feature or bug fix:  
