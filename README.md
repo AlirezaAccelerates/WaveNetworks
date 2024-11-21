@@ -63,14 +63,14 @@ Ensure you have the following installed:
 
 ## 📊 Models
 #### WaveNet
-Overview: A deep autoregressive model for audio generation.
+Overview: A deep autoregressive model for audio generation. \
 Original paper: 
-Key Features: Causal convolutions, dilated kernels for long-term dependencies.
+Key Features: Causal convolutions, dilated kernels for long-term dependencies. \
 #### WaveFlow
-Overview: A flow-based model for fast and efficient audio generation.
+Overview: A flow-based model for fast and efficient audio generation. \
 Original paper: 
-Key Features: Continuous normalizing flows, parallel synthesis.
+Key Features: Continuous normalizing flows, parallel synthesis. \
 #### WaveGlow
-Overview: A flow-based model combining the benefits of WaveNet and Glow.
-Original paper: WaveGlow: (A Flow-based Generative Network for Speech Synthesis)[https://arxiv.org/abs/1811.00002]
-Key Features: Generative model with flow-based invertibility.
+Overview: A flow-based model combining the benefits of WaveNet and Glow. \
+Original paper: WaveGlow: [A Flow-based Generative Network for Speech Synthesis](https://arxiv.org/abs/1811.00002) \
+Key Features: Generative model with flow-based invertibility. \
